@@ -21,7 +21,7 @@
 
 </div><br/>
 
-Inspirado em mudar o mundo tentando ser diferente da sociedade...
+Apaixonado por programação...
 
 ## Últimos Projetos:
 - [Pokedex - HTML5, CSS3 e JAVASCRIPT](https://murilobahr.github.io/pokedex/)<br/>
