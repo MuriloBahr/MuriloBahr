@@ -5,7 +5,7 @@
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilo.frontend/)
 [![Portfolio](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://murilobahr.github.io/portfolio/)
 
-[![Murilo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MuriloBahr&show_icons=true&theme=dark#gh-dark-mode-only)]        (https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Murilo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MuriloBahr&show_icons=true&theme=dark#gh-dark-mode-only)
 <br><br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBahr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias que eu uso no meu dia
