@@ -5,6 +5,7 @@
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilo.frontend/)
 [![Portfolio](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://murilobahr.github.io/portfolio/)
 
+ [![Murilo GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MuriloBahr&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -15,7 +16,6 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-
 </div><br/>
 
 Apaixonado por programação...
