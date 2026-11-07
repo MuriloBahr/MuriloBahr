@@ -14,7 +14,6 @@ I enjoy turning complex and repetitive tasks into reliable, scalable software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-henrique-10073b207/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilohenrique.dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://murilobahr.github.io/portfolio/)
 
 ---
 
