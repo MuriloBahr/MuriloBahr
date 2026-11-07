@@ -1,30 +1,77 @@
-### Olá! Eu sou o Murilo Henrique 
+# Olá! Eu sou Murilo Henrique 👋
 
+### Desenvolvedor Python | Automação de Processos | Inteligência Artificial
 
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-henrique-10073b207/)
-[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilohenrique.dev/)
-[![Portfolio](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://murilobahr.github.io/portfolio/)
+Sou desenvolvedor de software apaixonado por tecnologia e pela criação de soluções que simplificam processos e resolvem problemas reais.
 
-![Murilo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MuriloBahr&show_icons=true&theme=dark#gh-dark-mode-only)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBahr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-## Tecnologias que eu uso no meu dia
+Atualmente, trabalho principalmente com desenvolvimento de aplicações em **Python**, automação de processos, integração de APIs e soluções que utilizam Inteligência Artificial.
 
-<div style="display: inline_block"><br/>
+Gosto de transformar tarefas complexas e repetitivas em sistemas inteligentes, eficientes e escaláveis.
 
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-</div><br/>
+---
 
-Apaixonado por programação...
+### 🌐 Conecte-se comigo
 
-## Últimos Projetos:
-- [Pokedex - HTML5, CSS3 e JAVASCRIPT](https://murilobahr.github.io/pokedex/)<br/>
-- [Mario Game - HTML5, CSS3 e JAVASCRIPT](https://murilobahr.github.io/projeto-mario/)<br/>
-- [Tela de escolha de personagem - HTML5, CSS3 e JAVASCRIPT](https://murilobahr.github.io/projeto-marvel/)<br/>
-- [Calculadora - HTML5, CSS3 e JAVASCRIPT](https://murilobahr.github.io/training/Calculadora/)<br/>
-- [Projeto com efeito parallax - HTML5, CSS3](https://murilobahr.github.io/projeto-cordel/)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-henrique-10073b207/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilohenrique.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://murilobahr.github.io/portfolio/)
+
+---
+
+### 🚀 Tecnologias e ferramentas
+
+**Linguagens e desenvolvimento**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks e bibliotecas**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Banco de dados, infraestrutura e ferramentas**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Inteligência Artificial e automação**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python Automation](https://img.shields.io/badge/Process_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MuriloBahr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBahr&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+### 💻 Um pouco sobre mim
+
+- 🐍 Desenvolvimento de aplicações e automações com Python.
+- 🤖 Integração de APIs e soluções com Inteligência Artificial.
+- ⚙️ Automação de processos e sistemas corporativos.
+- 🗄️ Experiência com bancos de dados relacionais e PostgreSQL.
+- ☁️ Interesse em arquitetura de software, cloud e escalabilidade.
+- 🚀 Sempre buscando aprender e desenvolver soluções melhores.
+
+---
+
+<div align="center">
+
+**"Transformando ideias em soluções através da tecnologia."**
+
+</div>
